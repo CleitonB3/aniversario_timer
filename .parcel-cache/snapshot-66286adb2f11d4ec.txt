@@ -27,7 +27,7 @@
 77C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\src133806835142300834 1
 118C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\caniuse-lite\data\regions\AX.js133803354596134793 0
 136C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133803354588048825 0
-78C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist133806856398244308 1
+78C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist133812807585121987 1
 107C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\picocolors\README.md133803354573630886 0
 110C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\weak-lru-cache\index.js133803354572280615 0
 86C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules133803357429735258 1
@@ -57,7 +57,7 @@
 111C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\@swc\core-win32-x64-msvc133803354572355622 1
 127C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\@parcel\package-manager\lib\index.js.map133803354592848239 0
 119C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\htmlnano\docs\versioned_sidebars133803354596142307 1
-88C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\src\index.html133806849550111849 0
+88C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\src\index.html133812807453945758 0
 137C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\htmlnano\lib\modules\removeRedundantAttributes.cjs133803354590126791 0
 85C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\src\scripts133803355186157936 1
 121C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\node_modules\node-addon-api\tools\conversion.js133803354588048825 0
@@ -4335,7 +4335,7 @@
 97C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\index.1b3ffa09.css133806856398195439 0
 101C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\index.1b3ffa09.css.map133806856398224754 0
 100C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\index.f75de5e1.js.map133806842666730116 0
-89C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\index.html133806856398195439 0
+89C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\index.html133812807585121987 0
 109C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\landingAniversario.59712999.js133806842666681251 0
 113C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\landingAniversario.59712999.js.map133806842666710573 0
 97C:\Users\Cleiton\Desktop\cursos\cursos\curso\Front-end\landingAniversario\dist\lista.12479cb8.jpg133806842666083900 0
